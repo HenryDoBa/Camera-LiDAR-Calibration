@@ -1,0 +1,7 @@
+numpy>=1.24
+scipy>=1.11
+opencv-python>=4.8
+matplotlib>=3.7
+pytest>=7.0
+# Optional if your data contains .pcd, or for graphical point picking:
+# open3d>=0.18

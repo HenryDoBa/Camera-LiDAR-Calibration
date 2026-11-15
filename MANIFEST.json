@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-11-15T12:18:30",
+  "camera": "Dev0",
+  "lidar_scans": 160,
+  "ply_outputs": 160,
+  "camera_records": 160,
+  "paired_records": 51,
+  "selected_frames": [
+    "test_fn81",
+    "test_fn82",
+    "test_fn83",
+    "test_fn86",
+    "test_fn87",
+    "test_fn88",
+    "test_fn89"
+  ],
+  "included_camera_overlays": 7,
+  "included_report": true,
+  "registration_rmse_inlier_m": 0.06327394665171479
+}
